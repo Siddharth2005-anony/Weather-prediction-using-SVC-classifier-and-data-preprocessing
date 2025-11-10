@@ -1,9 +1,6 @@
 # Weather-prediction-using-SVC-classifier-and-data-preprocessing
-
-
-🌦️ PCA & SVM Classification on Weather Dataset
-
 This project applies Principal Component Analysis (PCA) and Support Vector Classification (SVC) on a weather dataset to identify useful features and evaluate classification performance. The dataset includes meteorological parameters such as rainfall, precipitation, temperature, and wind speed.
+
 
 🧩 Project Overview
 
